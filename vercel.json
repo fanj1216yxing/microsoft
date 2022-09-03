@@ -1,6 +1,6 @@
 {
   "functions": {
-    "*.php": {
+    "admin.php": {
       "runtime": "vercel-php@0.3.1",
       "excludeFiles": "{**}",
       "memory": 256,
